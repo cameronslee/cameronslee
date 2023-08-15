@@ -1,4 +1,4 @@
-### Curious
+![george](https://github.com/cameronslee/cameronslee/assets/29127398/1b743cab-eb4b-4bf5-a677-4bb30b964bf0)
 
 <!--
 **cameronslee/cameronslee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
